@@ -1,0 +1,1 @@
+**Threshold** - level of sound after which the compression begins.

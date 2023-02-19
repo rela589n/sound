@@ -1,0 +1,1 @@
+**Intensity** - **preassure in the medium** created by a sound. It is **quadratically proportional** to both [[Frequency]] and [[Amplitude]], linearly proportional to density of medium and the speed of the sound.

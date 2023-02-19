@@ -1,0 +1,4 @@
+Graphic [[Equalizer]].
+
+![[GEQ.png]]
+

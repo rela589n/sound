@@ -1,0 +1,1 @@
+Between 6kHz and 20kHz.

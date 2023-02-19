@@ -1,0 +1,1 @@
+Around 250Hz

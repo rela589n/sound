@@ -1,0 +1,1 @@
+In [[Sound]], sampling is **reuse of sample track** in another sound track.
