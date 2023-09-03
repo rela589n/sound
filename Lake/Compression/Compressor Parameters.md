@@ -5,3 +5,6 @@ Parameters:
 - [[Attack & Release]];
 - [[Compression Ratio|Ratio]];
 - **Output gain** - gain of output signal (sound after compression loses it's strength, gain levels this out).
+
+
+Hold

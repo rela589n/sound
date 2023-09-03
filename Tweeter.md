@@ -1,0 +1,1 @@
+A [[Loudspeaker|Speaker]], which best reproduces high-end frequencies.

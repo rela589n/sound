@@ -13,3 +13,5 @@ For monitor bus we definitely don't want to send (vocalists):
 - **Post Fader**, since change in FOH would affect monitor.
 - **Pre Fader**, since it includes compression, while vocalists poorly get compressed sound, and might ask to turn up the monitor.
 
+
+![[Signal flow.png]]

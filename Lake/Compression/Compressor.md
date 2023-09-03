@@ -3,7 +3,8 @@ Compressor narrows down dynamic range making loud sounds quiter. We can control 
 **Compression of dirty input** will produce even dirtier output. For instance, echo after compression will become even more louder.
 
 Compressing manuals:
-- [[Compressing vocals]].
+- [[Compressing vocals]];
+- [[Compressing bass]].
 
 See:
 - [[Compressor Parameters]];

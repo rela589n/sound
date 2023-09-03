@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2cd9e05a9625b6",
+        "id": "a67f3fdb06556d84",
         "type": "tabs",
         "children": [
           {
-            "id": "b158b3978e7857a9",
+            "id": "343209101f4321ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PEQ.png"
+              }
+            }
+          },
+          {
+            "id": "8c753d806503129d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lake/Guidelines/DCA group setup.md",
+                "file": "Lake/Compression/Manual/Compressing bass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +75,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e63fb5ac0b0339e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lake/Guidelines/DCA group setup.md",
+                "file": "Lake/Compression/Manual/Compressing bass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lake/Guidelines/DCA group setup.md",
+                "file": "Lake/Compression/Manual/Compressing bass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lake/Guidelines/DCA group setup.md"
+                "file": "Lake/Compression/Manual/Compressing bass.md"
               }
             }
           }
@@ -133,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +164,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b158b3978e7857a9",
+  "active": "8c753d806503129d",
   "lastOpenFiles": [
-    "Lake/DCA groups.md",
-    "Lake/Guidelines/Subgroup Setup.md",
-    "Lake/Guidelines/Monitor setup.md",
-    "Lake/EQ/Sounds/Harsh.md",
-    "Lake/EQ/Spectrums/Low-mids.md",
-    "Lake/EQ/Sounds/Warm VS Muddy and Boxy.md",
+    "4 things to take care of when EQing vocals.png",
+    "Lake/Sample.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Lake/Boundary effect.md",
+    "sound-wave-reflect.gif",
+    "Sound-level meter.md",
+    "SPL meter.png",
+    "Lake/Assets.md",
+    "Lake/Auto Mix.md",
+    "Phase coherence.png",
     "Lake/RTA.md",
+    "Spectrograph.png",
+    "Mid-range speaker.md",
+    "Lake/EQ/Spectrums/Midrange.md",
+    "Woofer.md",
+    "Three-way speaker.md",
+    "Two-way speaker.md",
+    "Crossover.md",
+    "Crossover.png",
+    "PEQ.png",
+    "Pasted image 20230417173127.png",
+    "Pasted image 20230903215803.png",
+    "Pasted image 20230417173104.png",
+    "Pasted image 20230325190835.png",
+    "Lake/Loudspeaker.md",
+    "Lake/PA System.md",
+    "Tweeter.md",
+    "Lake/Signal Flow.md",
+    "Lake/Sound/Phase.md",
+    "Phase coherence.md",
+    "Lake/Sound.md",
+    "Interference.md",
+    "pha.md",
+    "Lake/Waveform.md",
+    "2023-09-03.md",
+    "Lake/Sound/Cancellation.md",
+    "doc/8849435131934.pdf",
     "Lake/EQ/Equalizer.md",
-    "Lake/EQ/TEQ.md",
-    "Lake/EQ/GEQ.md"
+    "assets/Pink Noise.mp3",
+    "assets/audiocheck.net_PinkNoise_15min.mp3",
+    "assets"
   ]
 }

@@ -1,8 +1,9 @@
 > Start only with few db cuts.
 
-Typical mistake is Increasing way too [[Low-end]] to fatten the voice. It does increase only stage mud, and only a little fattens the voice.
+Typical **MISTAKE** is Increasing way too much [[Low-end]] to fatten the voice. It does increase only stage mud, and only a little fattens the voice.
 
 ![[EQ mistake - increased mud.png]]
+
 
 If vocal sounds [[Harsh]], it's [[High-mids]] region:
 

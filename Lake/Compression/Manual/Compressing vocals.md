@@ -4,11 +4,15 @@ The goal of vocal compresion is to **smooth the peaks**.
 
 ## Ratio
 
-The [[Compression Ratio]] of 2:1 or 3:1 is good option to start with.
+The [[Compression Ratio]] of 2:1 (light) or 3:1 (most common) is good option to start with. The ratio of 6:1 is considered to be aggressive.
 
 ## Threshold
 
 Gain reduction should be around 6dB - not to suck the life from vocal.
+
+## Gain
+
+Gain is intended to make up the sound level reduced by compression. If there're in/out level meters, we should set gain so that these meters meet. Otherwise, gain is set to the number, which GR meter continuously doesn't fall under (3 in the example below).
 
 ![[Compressor Gain Reduction.png]]
 

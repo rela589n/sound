@@ -1,4 +1,6 @@
-Parametric [[Equalizer]].
+Parametric [[Equalizer]]. Also known as Peaking eq. It has the shape of the bell.
+
+![[PEQ.png]]
 
 Params:
 - frequency,

@@ -6,11 +6,11 @@
 
 ## Sends - signal source
 
+See [[Signal Flow]].
+
 We don't want to use [[Signal Flow|Post Fader]], since otherwise [[Terms|FOH]] fader would affect monitor level.
 
 ![[Sends - types.png]]
-
-![[Signal flow.png]]
 
 Nor do we want this to be [[Signal Flow|Pre Fader]] for vocalists, since it includes [[Compressor|Compression]], and singers will constantly fight the compressed sound and ask to turn up the monitor level.
 
