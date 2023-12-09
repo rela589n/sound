@@ -1,0 +1,1 @@
+A math function, which describes a device's output for each possible input. Useful for [[Ringing out Room]].

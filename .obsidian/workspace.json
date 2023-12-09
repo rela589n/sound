@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a67f3fdb06556d84",
+        "id": "21310e6450e96aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "343209101f4321ac",
+            "id": "58fda86cc5656fb4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "PEQ.png"
-              }
-            }
-          },
-          {
-            "id": "8c753d806503129d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lake/Compression/Manual/Compressing bass.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lake/Compression/Manual/Compressing bass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lake/Compression/Manual/Compressing bass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,8 +126,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bea9dbbd52c7e3db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Lake/Compression/Manual/Compressing bass.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -164,8 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c753d806503129d",
+  "active": "58fda86cc5656fb4",
   "lastOpenFiles": [
+    "PEQ.png",
+    "Lake/EQ/Equalizer.md",
+    "Transfer function.md",
+    "Unity gain.md",
+    "Ringing out Room.md",
+    "Lake/EQ/GEQ.md",
+    "Lake/Compression/Manual/Compressing bass.md",
     "4 things to take care of when EQing vocals.png",
     "Lake/Sample.md",
     "Untitled 1.canvas",
@@ -186,11 +184,9 @@
     "Two-way speaker.md",
     "Crossover.md",
     "Crossover.png",
-    "PEQ.png",
     "Pasted image 20230417173127.png",
     "Pasted image 20230903215803.png",
     "Pasted image 20230417173104.png",
-    "Pasted image 20230325190835.png",
     "Lake/Loudspeaker.md",
     "Lake/PA System.md",
     "Tweeter.md",
@@ -198,13 +194,7 @@
     "Lake/Sound/Phase.md",
     "Phase coherence.md",
     "Lake/Sound.md",
-    "Interference.md",
-    "pha.md",
-    "Lake/Waveform.md",
-    "2023-09-03.md",
-    "Lake/Sound/Cancellation.md",
     "doc/8849435131934.pdf",
-    "Lake/EQ/Equalizer.md",
     "assets/Pink Noise.mp3",
     "assets/audiocheck.net_PinkNoise_15min.mp3",
     "assets"
