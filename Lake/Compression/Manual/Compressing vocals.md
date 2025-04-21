@@ -1,6 +1,6 @@
 When doing monitors from [[Terms|Front of House]], you don't want the vocalists to hear compressed sound from the monitors, since they will always ask to turn up the monitor level.
 
-The goal of vocal compresion is to **smooth the peaks**.
+The goal of vocal compression is to **smooth out the peaks**.
 
 ## Ratio
 
