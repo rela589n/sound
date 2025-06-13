@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2cd02c61769e742",
+        "id": "14f3ea9a5aa75f74",
         "type": "tabs",
         "children": [
           {
-            "id": "29a1a9b31b810c2e",
+            "id": "5c62e5a1680cef1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29a1a9b31b810c2e",
+  "active": "5c62e5a1680cef1e",
   "lastOpenFiles": [
     "Woofer.md",
     "Untitled 1.md",
