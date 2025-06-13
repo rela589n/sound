@@ -4,147 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eedd436a34e48aa7",
+        "id": "a273152d2b70831d",
         "type": "tabs",
         "children": [
           {
-            "id": "6986b7d951698744",
+            "id": "cf7145e439a0d067",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Subgroup Setup Guide.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Subgroup Setup Guide"
-            }
-          },
-          {
-            "id": "cc8132d4b31e0175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lake/Speaker/Two-way speaker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two-way speaker"
-            }
-          },
-          {
-            "id": "a14ce5f4254e8ca3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Speaker/Loudspeaker.png"
-              },
-              "icon": "lucide-image",
-              "title": "Loudspeaker"
-            }
-          },
-          {
-            "id": "b33375ae44fc1a34",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Sound/Interference/Constructive Interference.png"
-              },
-              "icon": "lucide-image",
-              "title": "Constructive Interference"
-            }
-          },
-          {
-            "id": "a6e82acb13052935",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Preventing the channel output from being sent to LR directly.png"
-              },
-              "icon": "lucide-image",
-              "title": "Preventing the channel output from being sent to LR directly"
-            }
-          },
-          {
-            "id": "1a16993af0536517",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Sending subgroup output to LR master.png"
-              },
-              "icon": "lucide-image",
-              "title": "Sending subgroup output to LR master"
-            }
-          },
-          {
-            "id": "afb47fa9ce0eb934",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Making stereo subgroup.png"
-              },
-              "icon": "lucide-image",
-              "title": "Making stereo subgroup"
-            }
-          },
-          {
-            "id": "83b86d2edf293abd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Make bus subgroup.png"
-              },
-              "icon": "lucide-image",
-              "title": "Make bus subgroup"
-            }
-          },
-          {
-            "id": "68607d20e80aa014",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Make bus the subgroup - for channel.png"
-              },
-              "icon": "lucide-image",
-              "title": "Make bus the subgroup - for channel"
-            }
-          },
-          {
-            "id": "a77088c47ef55af1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Subgroup/Subgroup signal flow.png"
-              },
-              "icon": "lucide-image",
-              "title": "Subgroup signal flow"
-            }
-          },
-          {
-            "id": "c35d22bd3e4c35c0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Signal Flow/Signal flow.png"
-              },
-              "icon": "lucide-image",
-              "title": "Signal flow"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lake/Speaker/Two-way speaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Two-way speaker"
+              "title": "Backlinks"
             }
           },
           {
@@ -246,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lake/Speaker/Two-way speaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Two-way speaker"
+              "title": "Outgoing links"
             }
           },
           {
@@ -275,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lake/Speaker/Two-way speaker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Two-way speaker"
+              "title": "Outline"
             }
           },
           {
@@ -317,12 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc8132d4b31e0175",
+  "active": "cf7145e439a0d067",
   "lastOpenFiles": [
+    "Lake/Bus/Subgroup/Subgroup Setup Guide.md",
+    "Aux Bus Routing.png",
+    "Lake/Speaker/Two-way speaker.md",
     "Lake/Speaker/Crossover.md",
     "Lake/Speaker/Three-way speaker.md",
     "Lake/Speaker/Loudspeaker.md",
-    "Lake/Speaker/Two-way speaker.md",
     "Lake/Speaker/Mid-range speaker.md",
     "Lake/Speaker/Tweeter.md",
     "Lake/Speaker/Woofer.md",
@@ -335,13 +207,11 @@
     "Sound/Interference/Constructive Interference.png",
     "Sound/Interference",
     "Lake/Bus/Subgroup/Adding channels to the group and adjusting the balance.png",
-    "Lake/Bus/Subgroup/Subgroup Setup Guide.md",
     "Lake/Bus/Subgroup/Preventing the channel output from being sent to LR directly.png",
     "Lake/Bus/Subgroup/Sending subgroup output to LR master.png",
     "Lake/Bus/Subgroup/Making stereo subgroup.png",
     "Lake/Bus/Subgroup/Make bus subgroup.png",
     "Lake/Bus/Subgroup/Make bus the subgroup - for channel.png",
-    "Lake/Bus/Subgroup/Subgroup signal flow.png",
     "Lake/Bus/Subgroup",
     "Lake/Bus",
     "Lake/Signal Flow/Signal Flow.md",
@@ -364,7 +234,6 @@
     "Sound/SPL",
     "Sound/Characteristics/Amplitude/Amplitude.md",
     "Sound/Characteristics/Phase/Phase.md",
-    "Sound/Cancellation.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
