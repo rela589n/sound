@@ -20,9 +20,9 @@ Sensor screen
 
 6-band [[Equalizer|EQ]] (besides [[HPF|Low-cut Filter]] and [[LPF|High-cut Filter]])
 
-[[EQ Band Solo]] feature
+[[EQ Band Solo]] feature (no need to sweep on live)
 [[Tilt EQ]] feature  (give darker or brighter sound to any instrument)
-[[Dynamic Equalizer]] for each channel
+[[Dynamic Equalizer]] for each channel (select in Gate section)
 Plugins for every channel (not limited to inserts like on [[M32 Live|M32]])
 
 Apps:

@@ -1,0 +1,1 @@
+Fundamental [[Frequency]] is the lowest [[Frequency]] that needs to exist in order to hear the sound properly.
