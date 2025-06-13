@@ -4,7 +4,7 @@
 Characteristics:
 - [[Amplitude]];
 - [[Frequency]];
-- [[Intensity]];
+- [[Preassure]];
 - [[Loudness]];
 - [[Phase]];
 - [[Period]];
