@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
+                "file": "Mixing Consoles/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wing Rack"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "34c15f14182ead1b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mixing Consoles/Wing/Rack/Wing Rack - Back.png"
+              },
+              "icon": "lucide-image",
+              "title": "Wing Rack - Back"
             }
           }
         ]
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
+                "file": "Mixing Consoles/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wing Rack"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -123,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
+                "file": "Mixing Consoles/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wing Rack"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -152,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
+                "file": "Mixing Consoles/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wing Rack"
+              "title": "Outline of Notes"
             }
           },
           {
@@ -196,12 +208,18 @@
   },
   "active": "5019717dd2eb3ef4",
   "lastOpenFiles": [
-    "Wing Rack - Side.png",
-    "Wing Rack - Side.png",
+    "Lake/Gain/Input gain.md",
+    "Lake/Gain",
+    "Lake/Gain/Unity gain.md",
+    "Mixing Consoles/Wing/Compact/Wing Compact.md",
+    "Mixing Consoles/Wing/Behringer Wing.md",
+    "Mixing Consoles/Wing/Compact",
     "Mixing Consoles/Wing/Rack/Wing Rack.md",
+    "Mixing Consoles/Wing/Rack/Wing Rack - Back.png",
+    "Mixing Consoles/Wing/Rack/Wing Rack - Side.png",
+    "Mixing Consoles/Wing/Rack/Wing Rack - Side.png",
     "Mixing Consoles/M32/Full/M32 Live - Side.png",
     "Mixing Consoles/Wing/Rack/Wing Rack - Front.png",
-    "Mixing Consoles/Wing/Behringer Wing.md",
     "Mixing Consoles/Wing/Rack",
     "Stage Connect/Stage Connect.md",
     "Cables/DMX/DMX.md",
@@ -226,22 +244,16 @@
     "Lake/Bus/Monitor/Sending sound to monitor bus - from mixer tab.png",
     "Lake/Bus/Monitor/Sending channel sound to monitor bus.png",
     "Lake/Bus/Monitor/Monitor setup Guide.md",
-    "Lake/Bus/Monitor/Aux Bus Routing.png",
     "Lake/Compression/Limiter/Clipper.md",
-    "4 things to take care of when EQing vocals.png",
     "Sound/Transient/Transient.md",
     "Sound/Transient",
     "Sound/Sound.md",
     "Sound/Cancellation.md",
     "Transfer function.md",
     "Lake/SBIR/Boundary effect.md",
-    "Lake/Volume VS Gain.md",
     "Lake/Compression/Limiter",
-    "Lake/Compression/Limiter/Limiter.md",
     "Lake/Bus/Monitor",
     "Sound/Characteristics/Frequency",
-    "Sound/Characteristics/Period",
-    "Lake/Speaker",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
