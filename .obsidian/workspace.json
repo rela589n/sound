@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixing Consoles/Notes.md",
+                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Wing Compact"
+            }
+          },
+          {
+            "id": "ee138b7abcd96033",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Wing Compact - Side.png"
+              },
+              "icon": "lucide-image",
+              "title": "Wing Compact - Side"
             }
           },
           {
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mixing Consoles/Notes.md",
+                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for Wing Compact"
             }
           },
           {
@@ -135,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mixing Consoles/Notes.md",
+                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from Wing Compact"
             }
           },
           {
@@ -164,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mixing Consoles/Notes.md",
+                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Wing Compact"
             }
           },
           {
@@ -208,10 +220,14 @@
   },
   "active": "5019717dd2eb3ef4",
   "lastOpenFiles": [
+    "Wing Compact - Back.png",
+    "Wing Compact - Side.png",
+    "Mixing Consoles/Wing/Compact/Wing Compact.md",
+    "Wing Compact - Front.png",
+    "Mixing Consoles/Notes.md",
     "Lake/Gain/Input gain.md",
     "Lake/Gain",
     "Lake/Gain/Unity gain.md",
-    "Mixing Consoles/Wing/Compact/Wing Compact.md",
     "Mixing Consoles/Wing/Behringer Wing.md",
     "Mixing Consoles/Wing/Compact",
     "Mixing Consoles/Wing/Rack/Wing Rack.md",
@@ -241,16 +257,12 @@
     "Lake/Virtual Soundcheck.md",
     "Stage Connect",
     "Lake/Bus/Monitor/Sending sound to monitor bus.png",
-    "Lake/Bus/Monitor/Sending sound to monitor bus - from mixer tab.png",
-    "Lake/Bus/Monitor/Sending channel sound to monitor bus.png",
     "Lake/Bus/Monitor/Monitor setup Guide.md",
     "Lake/Compression/Limiter/Clipper.md",
     "Sound/Transient/Transient.md",
     "Sound/Transient",
     "Sound/Sound.md",
     "Sound/Cancellation.md",
-    "Transfer function.md",
-    "Lake/SBIR/Boundary effect.md",
     "Lake/Compression/Limiter",
     "Lake/Bus/Monitor",
     "Sound/Characteristics/Frequency",
