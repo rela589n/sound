@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
+                "file": "Mixing Consoles/Wing/Behringer Wing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wing Compact"
+              "title": "Behringer Wing"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
+                "file": "Mixing Consoles/Wing/Behringer Wing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wing Compact"
+              "title": "Backlinks for Behringer Wing"
             }
           },
           {
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
+                "file": "Mixing Consoles/Wing/Behringer Wing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wing Compact"
+              "title": "Outgoing links from Behringer Wing"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mixing Consoles/Wing/Compact/Wing Compact.md",
+                "file": "Mixing Consoles/Wing/Behringer Wing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wing Compact"
+              "title": "Outline of Behringer Wing"
             }
           },
           {
@@ -263,14 +263,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c02abd8c703a05d4",
+  "active": "905eafefc8a635bd",
   "lastOpenFiles": [
-    "Mixing Consoles/Wing/Compact/Wing Compact - Lid.png",
+    "Lake/EQ/Dynamic Equalizer.md",
+    "Mixing Consoles/Wing/Behringer Wing.md",
+    "Mixing Consoles/M32/Full/M32 Live.md",
+    "Connections/AES50.md",
+    "Connections/XLR.md",
+    "Connections/TRS.md",
+    "Connections",
+    "Mixing Consoles/Wing/Wing Stageboxes.md",
+    "Mixing Consoles/Wing/Compact/Wing Compact.md",
     "Mixing Consoles/Wing/Compact/Wing Compact - Top.png",
+    "Lake/EQ/Equalizer.md",
+    "Lake/EQ/EQ Band Solo.md",
+    "Lake/Solo.md",
+    "Mixing Consoles/Wing/Compact/Wing Compact - Lid.png",
     "Mixing Consoles/Wing/Compact/Wing Compact - Side.png",
     "Mixing Consoles/Wing/Compact/Wing Compact - Front.png",
     "Mixing Consoles/Wing/Compact/Wing Compact - Back.png",
-    "Mixing Consoles/Wing/Compact/Wing Compact.md",
     "Mixing Consoles/Wing/Rack/Wing Rack - Back.png",
     "Mixing Consoles/Wing/Rack/Wing Rack.md",
     "Mixing Consoles/M32/Reduced/M32R Live.md",
@@ -282,35 +293,24 @@
     "Lake/Gain/Input gain.md",
     "Lake/Gain",
     "Lake/Gain/Unity gain.md",
-    "Mixing Consoles/Wing/Behringer Wing.md",
     "Mixing Consoles/Wing/Compact",
-    "Mixing Consoles/Wing/Rack/Wing Rack - Side.png",
     "Mixing Consoles/Wing/Rack/Wing Rack - Side.png",
     "Mixing Consoles/Wing/Rack",
     "Stage Connect/Stage Connect.md",
-    "Cables/DMX/DMX.md",
-    "Cables/XLR.md",
-    "Cables/DMX",
+    "Connections/DMX/DMX.md",
+    "Connections/DMX",
     "Lake/Balanced Signal.md",
     "Lake/Ultranet.md",
-    "Cables/aes50.md",
-    "Mixing Consoles/Wing/Wing Stageboxes.md",
     "Lake/Stage Box.md",
     "Mixing Consoles/Wing",
-    "Lake/EQ/Equalizer.md",
     "Lake/Shelve filters.md",
     "Lake/EQ/Pass or Cut filters.md",
     "Lake/EQ/PEQ.md",
     "Lake/EQ/Tilt EQ.md",
-    "Lake/Virtual Soundcheck.md",
     "Stage Connect",
-    "Lake/Bus/Monitor/Monitor setup Guide.md",
-    "Lake/Compression/Limiter/Clipper.md",
-    "Sound/Transient/Transient.md",
     "Sound/Transient",
     "Lake/Compression/Limiter",
     "Lake/Bus/Monitor",
-    "Sound/Characteristics/Frequency",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

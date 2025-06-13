@@ -1,7 +1,6 @@
 ---
 aliases: EQ
 ---
-
 For vocals usually substractive EQ (substract rather than boost) principles apply first and foremost.
 
 See [eq-cheat-sheet](https://producelikeapro.com/blog/eq-cheat-sheet/) for frequency ranges.

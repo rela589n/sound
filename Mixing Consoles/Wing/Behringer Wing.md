@@ -4,19 +4,26 @@ Mix buses (each is stereo): 16
 Main buses (stereo): 4
 Matrices (stereo): 8 
 
-8 TRS inputs
-8 TRS outputs
+8 [[TRS]] inputs
+8 [[TRS]] outputs
 
-Sensor screen
-Dual network ethernet ports for PC, Tablet control
+Dual network ethernet ports for PC / Tablet control
 [[Ultranet]] connectivity
 
-3 [[aes50]] bidirectional input sources (so that totally you can connect 144 channels through these for input and output)
+3 [[AES50]] (each is able to handle 48 channels) bidirectional input sources (so totally you can connect 144 channels through these both for input and output)
 
 [[Stage Connect]] port for any combination of IO (up to 32 channels).
 2 SD cards to record (and [[Virtual Soundcheck]])
 USB 2.0 for PC connection (48 channels).
-6-band [[Equalizer|EQ]]
+
+Sensor screen
+
+6-band [[Equalizer|EQ]] (besides [[HPF|Low-cut Filter]] and [[LPF|High-cut Filter]])
+
+[[EQ Band Solo]] feature
+[[Tilt EQ]] feature  (give darker or brighter sound to any instrument)
+[[Dynamic Equalizer]] for each channel
+Plugins for every channel (not limited to inserts like on [[M32 Live|M32]])
 
 Apps:
 - Wing Copilot - app for Tablets

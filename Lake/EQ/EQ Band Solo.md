@@ -1,0 +1,1 @@
+[[Equalizer|EQ]] Band Solo is the ability to [[Solo]] particular [[Equalizer|EQ]] Band into your headphones so that you'll find problematic [[Frequency]] easier.
