@@ -2,7 +2,7 @@
 aliases: Input, Pre EQ, Post EQ, Pre Fader, Post Fader
 ---
 
-The sound sent to the bus might be:
+Source of the sound sent to the bus might be:
 - **Input** means input **signal right after the gain**
 - **Pre  EQ** - signal **after gate**;
 - **Post EQ** - signal **after EQ**;

@@ -5,4 +5,4 @@ Select DCA group you want to setup:
 
 Add individual channels to the DCA group:
 
-![[Adding channels to DCA group.png]]
+![[DCA group - adding channels.png]]
