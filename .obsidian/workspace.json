@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Characteristics/Frequency/Fundamental Frequency.md",
+                "file": "Instruments/Bass/Bass Guitar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Frequency"
+              "title": "Bass Guitar"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Characteristics/Frequency/Fundamental Frequency.md",
+                "file": "Instruments/Bass/Bass Guitar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fundamental Frequency"
+              "title": "Backlinks for Bass Guitar"
             }
           },
           {
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Characteristics/Frequency/Fundamental Frequency.md",
+                "file": "Instruments/Bass/Bass Guitar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fundamental Frequency"
+              "title": "Outgoing links from Bass Guitar"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Characteristics/Frequency/Fundamental Frequency.md",
+                "file": "Instruments/Bass/Bass Guitar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fundamental Frequency"
+              "title": "Outline of Bass Guitar"
             }
           },
           {
@@ -265,8 +265,18 @@
   },
   "active": "905eafefc8a635bd",
   "lastOpenFiles": [
-    "Sound/Characteristics/Frequency/Frequency.md",
+    "Instruments/Drums/Snare Drum.md",
+    "Instruments/Drums/Kick Drum.md",
+    "Lake/EQ/How to EQ Anything Guide.md",
+    "Instruments/Bass/Bass Guitar.md",
+    "Instruments/Bass",
+    "Lake/EQ/Sounds/Boomy.md",
     "Sound/Characteristics/Frequency/Fundamental Frequency.md",
+    "Instruments/Drums",
+    "Lake/EQ/Spectrums/High-mids.md",
+    "Lake/EQ/Spectrums/Presence.md",
+    "Lake/EQ/Spectrums/Brilliance.md",
+    "Sound/Characteristics/Frequency/Frequency.md",
     "Mixing Consoles/Notes.md",
     "Mixing Consoles/Wing/Behringer Wing.md",
     "Lake/EQ/Tilt EQ.md",
@@ -293,24 +303,14 @@
     "Mixing Consoles/M32/Midas M32.md",
     "M32R Live - Back.png",
     "Mixing Consoles/M32/Reduced/M32R Live - Side.png",
-    "Lake/Gain/Input gain.md",
     "Lake/Gain",
-    "Lake/Gain/Unity gain.md",
     "Mixing Consoles/Wing/Compact",
     "Mixing Consoles/Wing/Rack/Wing Rack - Side.png",
     "Mixing Consoles/Wing/Rack",
-    "Stage Connect/Stage Connect.md",
-    "Connections/DMX/DMX.md",
     "Connections/DMX",
-    "Lake/Balanced Signal.md",
-    "Lake/Ultranet.md",
-    "Lake/Stage Box.md",
     "Mixing Consoles/Wing",
-    "Lake/Shelve filters.md",
     "Stage Connect",
     "Sound/Transient",
-    "Lake/Compression/Limiter",
-    "Lake/Bus/Monitor",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
