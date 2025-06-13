@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruments/Bass/Bass Guitar.md",
+                "file": "Mixing Consoles/M32/Midas M32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bass Guitar"
+              "title": "Midas M32"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instruments/Bass/Bass Guitar.md",
+                "file": "Mixing Consoles/M32/Midas M32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bass Guitar"
+              "title": "Backlinks for Midas M32"
             }
           },
           {
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instruments/Bass/Bass Guitar.md",
+                "file": "Mixing Consoles/M32/Midas M32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bass Guitar"
+              "title": "Outgoing links from Midas M32"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instruments/Bass/Bass Guitar.md",
+                "file": "Mixing Consoles/M32/Midas M32.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bass Guitar"
+              "title": "Outline of Midas M32"
             }
           },
           {
@@ -265,10 +265,10 @@
   },
   "active": "905eafefc8a635bd",
   "lastOpenFiles": [
+    "Instruments/Bass/Bass Guitar.md",
     "Instruments/Drums/Snare Drum.md",
     "Instruments/Drums/Kick Drum.md",
     "Lake/EQ/How to EQ Anything Guide.md",
-    "Instruments/Bass/Bass Guitar.md",
     "Instruments/Bass",
     "Lake/EQ/Sounds/Boomy.md",
     "Sound/Characteristics/Frequency/Fundamental Frequency.md",
