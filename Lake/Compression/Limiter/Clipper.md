@@ -2,6 +2,6 @@ Clipper -  very agressive [[Limiter]], with instant attack (0ms) and infinite ra
 
 Используеться для срезания пиков.
 
-Usually soft clipping shoud come before, please use  [[Limiter]].
+Usually soft clipping should come before, please use [[Limiter]].
 
 ![[Soft VS Hard Clipping.png]]

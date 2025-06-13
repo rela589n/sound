@@ -11,13 +11,94 @@
             "id": "cf7145e439a0d067",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lake/Compression/Limiter/Clipper.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Clipper"
+            }
+          },
+          {
+            "id": "30abb121d1fa78d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Transient/Transient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transient"
+            }
+          },
+          {
+            "id": "e5971f564ca5b97a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/Bus/Monitor/Aux Bus Routing.png"
+              },
+              "icon": "lucide-image",
+              "title": "Aux Bus Routing"
+            }
+          },
+          {
+            "id": "deaec77ef2d9ece0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lake/Bus/Monitor/Monitor setup Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitor setup Guide"
+            }
+          },
+          {
+            "id": "ee1a6333ef1860d0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/Bus/Monitor/Sending channel sound to monitor bus.png"
+              },
+              "icon": "lucide-image",
+              "title": "Sending channel sound to monitor bus"
+            }
+          },
+          {
+            "id": "79a6f2f517b46095",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/Bus/Monitor/Sending sound to monitor bus - from mixer tab.png"
+              },
+              "icon": "lucide-image",
+              "title": "Sending sound to monitor bus - from mixer tab"
+            }
+          },
+          {
+            "id": "0eada14129e03eb7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/Bus/Monitor/Sending sound to monitor bus.png"
+              },
+              "icon": "lucide-image",
+              "title": "Sending sound to monitor bus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mixing The subgroup.",
+                "query": "Transient.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sound/Transient/Transient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Transient"
             }
           },
           {
@@ -118,11 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sound/Transient/Transient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Transient"
             }
           },
           {
@@ -146,12 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sound/Transient/Transient.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Transient"
             }
           },
           {
@@ -187,10 +271,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf7145e439a0d067",
+  "active": "c02abd8c703a05d4",
   "lastOpenFiles": [
+    "Sound/Transient",
+    "Sound/Sound.md",
+    "Sound/Transient/Transient.md",
+    "Sound/Sound.png",
+    "Sound/Cancellation.md",
+    "Sound/Transient/Transient.png",
+    "Transfer function.md",
+    "sound-wave-reflect.gif",
+    "Sound limiter.png",
+    "Set auto mix group for a channel.png",
+    "Sends - types.png",
+    "Long decay.png",
+    "Inserted FX flow.png",
+    "Enabling auto mix.png",
+    "De-essing.png",
+    "Lake/SBIR/Boundary effect.md",
+    "Lake/Volume VS Gain.md",
+    "Lake/Compression/Limiter/Clipper.md",
+    "Lake/Compression/Limiter",
+    "Lake/Compression/Limiter/Limiter.md",
+    "Ringing out Room.md",
+    "Lake/Bus/Monitor/Monitor setup Guide.md",
+    "Sound/Characteristics/Period/Period.md",
+    "Lake/Bus/Monitor",
     "Lake/Bus/Subgroup/Subgroup Setup Guide.md",
-    "Aux Bus Routing.png",
+    "Lake/FX/Send & Return FX.md",
+    "Sound/Characteristics/Frequency/Frequency.md",
+    "Sound/Characteristics/Frequency",
+    "Sound/Characteristics/Phase/Phase.md",
+    "Sound/Characteristics/Period",
     "Lake/Speaker/Two-way speaker.md",
     "Lake/Speaker/Crossover.md",
     "Lake/Speaker/Three-way speaker.md",
@@ -198,42 +310,15 @@
     "Lake/Speaker/Mid-range speaker.md",
     "Lake/Speaker/Tweeter.md",
     "Lake/Speaker/Woofer.md",
-    "Lake/Speaker/Loudspeaker.png",
     "Lake/PA System.md",
     "Lake/Speaker",
     "Sound/Interference/Interference.md",
     "Lake/Terms.md",
-    "Sound/Interference/Destructive Interference.png",
-    "Sound/Interference/Constructive Interference.png",
     "Sound/Interference",
-    "Lake/Bus/Subgroup/Adding channels to the group and adjusting the balance.png",
-    "Lake/Bus/Subgroup/Preventing the channel output from being sent to LR directly.png",
-    "Lake/Bus/Subgroup/Sending subgroup output to LR master.png",
-    "Lake/Bus/Subgroup/Making stereo subgroup.png",
-    "Lake/Bus/Subgroup/Make bus subgroup.png",
-    "Lake/Bus/Subgroup/Make bus the subgroup - for channel.png",
     "Lake/Bus/Subgroup",
     "Lake/Bus",
-    "Lake/Signal Flow/Signal Flow.md",
     "Lake/Signal Flow",
-    "Lake/Guidelines/Monitor setup.md",
-    "Lake/RTA/RTA.md",
-    "Lake/DCA/DCA groups.md",
-    "Lake/DCA/DCA group setup Guide.md",
-    "Lake/SBIR/Boundary effect.md",
     "Lake/SBIR",
-    "2023-09-03.md",
-    "Lake/RTA",
-    "Lake/DCA",
-    "Transfer function.md",
-    "Unity gain.md",
-    "Sound/Transient.md",
-    "Sound/Characteristics/Preassure/Sound-level meter.md",
-    "Sound/Characteristics/Preassure/Preassure.md",
-    "Sound/Characteristics/Preassure",
-    "Sound/SPL",
-    "Sound/Characteristics/Amplitude/Amplitude.md",
-    "Sound/Characteristics/Phase/Phase.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
