@@ -11,10 +11,14 @@
             "id": "5c62e5a1680cef1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mixing Consoles/X32 vs M32.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "X32 vs M32"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mixing Consoles/X32 vs M32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for X32 vs M32"
             }
           },
           {
@@ -189,6 +194,9 @@
   },
   "active": "5c62e5a1680cef1e",
   "lastOpenFiles": [
+    "Mixing Consoles/Behringer X32.md",
+    "Mixing Consoles/X32 vs M32.md",
+    "Mixing Consoles/Behringer Wing.md",
     "Woofer.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -203,7 +211,6 @@
     "Signal flow.png",
     "Soft VS Hard Clipping.png",
     "Cables/cat5e.md",
-    "Mixing Consoles/Behringer Wing.md",
     "Cables",
     "Mixing Consoles/Midas M32.md",
     "assets/Pink Noise.mp3",
@@ -228,8 +235,6 @@
     "Two-way speaker.md",
     "Crossover.md",
     "Lake/Loudspeaker.md",
-    "Lake/PA System.md",
-    "Tweeter.md",
     "doc/8849435131934.pdf",
     "assets/audiocheck.net_PinkNoise_15min.mp3",
     "assets"
