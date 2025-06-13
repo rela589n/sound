@@ -2,3 +2,4 @@
 ![[Wing Compact - Top.png]]
 ![[Wing Compact - Side.png]]
 ![[Wing Compact - Back.png]]
+![[Wing Compact - Lid.png]]
