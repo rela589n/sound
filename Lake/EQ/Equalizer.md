@@ -10,6 +10,7 @@ Equalizer types:
 - [[Pass or Cut filters]];
 - [[Shelve filters]];
 - [[PEQ]];
+- [[Tilt EQ]];
 - [[GEQ]];
 - [[TEQ]].
 

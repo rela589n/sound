@@ -1,0 +1,1 @@
+[[Balanced Signal|Balanced]] Audio cable.

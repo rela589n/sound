@@ -1,0 +1,1 @@
+[[Equalizer|EQ]], that allows to shift the whole frequency range higher, or lower without otherwise changing it.

@@ -4,101 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a273152d2b70831d",
+        "id": "2fcfb3ba5dcadca4",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7145e439a0d067",
+            "id": "5019717dd2eb3ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lake/Compression/Limiter/Clipper.md",
+                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clipper"
-            }
-          },
-          {
-            "id": "30abb121d1fa78d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound/Transient/Transient.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transient"
-            }
-          },
-          {
-            "id": "e5971f564ca5b97a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Monitor/Aux Bus Routing.png"
-              },
-              "icon": "lucide-image",
-              "title": "Aux Bus Routing"
-            }
-          },
-          {
-            "id": "deaec77ef2d9ece0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lake/Bus/Monitor/Monitor setup Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monitor setup Guide"
-            }
-          },
-          {
-            "id": "ee1a6333ef1860d0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Monitor/Sending channel sound to monitor bus.png"
-              },
-              "icon": "lucide-image",
-              "title": "Sending channel sound to monitor bus"
-            }
-          },
-          {
-            "id": "79a6f2f517b46095",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Monitor/Sending sound to monitor bus - from mixer tab.png"
-              },
-              "icon": "lucide-image",
-              "title": "Sending sound to monitor bus - from mixer tab"
-            }
-          },
-          {
-            "id": "0eada14129e03eb7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lake/Bus/Monitor/Sending sound to monitor bus.png"
-              },
-              "icon": "lucide-image",
-              "title": "Sending sound to monitor bus"
+              "title": "Wing Rack"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Transient.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Transient/Transient.md",
+                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transient"
+              "title": "Backlinks for Wing Rack"
             }
           },
           {
@@ -200,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Transient/Transient.md",
+                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Transient"
+              "title": "Outgoing links from Wing Rack"
             }
           },
           {
@@ -229,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Transient/Transient.md",
+                "file": "Mixing Consoles/Wing/Rack/Wing Rack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transient"
+              "title": "Outline of Wing Rack"
             }
           },
           {
@@ -271,54 +194,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c02abd8c703a05d4",
+  "active": "5019717dd2eb3ef4",
   "lastOpenFiles": [
+    "Wing Rack - Side.png",
+    "Wing Rack - Side.png",
+    "Mixing Consoles/Wing/Rack/Wing Rack.md",
+    "Mixing Consoles/M32/Full/M32 Live - Side.png",
+    "Mixing Consoles/Wing/Rack/Wing Rack - Front.png",
+    "Mixing Consoles/Wing/Behringer Wing.md",
+    "Mixing Consoles/Wing/Rack",
+    "Stage Connect/Stage Connect.md",
+    "Cables/DMX/DMX.md",
+    "Cables/XLR.md",
+    "Cables/DMX/DMX 5-pin.png",
+    "Cables/DMX/DMX 3-pin.png",
+    "Cables/DMX",
+    "Lake/Balanced Signal.md",
+    "Lake/Ultranet.md",
+    "Cables/aes50.md",
+    "Mixing Consoles/Wing/Wing Stageboxes.md",
+    "Lake/Stage Box.md",
+    "Mixing Consoles/Wing",
+    "Lake/EQ/Equalizer.md",
+    "Lake/Shelve filters.md",
+    "Lake/EQ/Pass or Cut filters.md",
+    "Lake/EQ/PEQ.md",
+    "Lake/EQ/Tilt EQ.md",
+    "Lake/Virtual Soundcheck.md",
+    "Stage Connect",
+    "Lake/Bus/Monitor/Sending sound to monitor bus.png",
+    "Lake/Bus/Monitor/Sending sound to monitor bus - from mixer tab.png",
+    "Lake/Bus/Monitor/Sending channel sound to monitor bus.png",
+    "Lake/Bus/Monitor/Monitor setup Guide.md",
+    "Lake/Bus/Monitor/Aux Bus Routing.png",
+    "Lake/Compression/Limiter/Clipper.md",
+    "4 things to take care of when EQing vocals.png",
+    "Sound/Transient/Transient.md",
     "Sound/Transient",
     "Sound/Sound.md",
-    "Sound/Transient/Transient.md",
-    "Sound/Sound.png",
     "Sound/Cancellation.md",
-    "Sound/Transient/Transient.png",
     "Transfer function.md",
-    "sound-wave-reflect.gif",
-    "Sound limiter.png",
-    "Set auto mix group for a channel.png",
-    "Sends - types.png",
-    "Long decay.png",
-    "Inserted FX flow.png",
-    "Enabling auto mix.png",
-    "De-essing.png",
     "Lake/SBIR/Boundary effect.md",
     "Lake/Volume VS Gain.md",
-    "Lake/Compression/Limiter/Clipper.md",
     "Lake/Compression/Limiter",
     "Lake/Compression/Limiter/Limiter.md",
-    "Ringing out Room.md",
-    "Lake/Bus/Monitor/Monitor setup Guide.md",
-    "Sound/Characteristics/Period/Period.md",
     "Lake/Bus/Monitor",
-    "Lake/Bus/Subgroup/Subgroup Setup Guide.md",
-    "Lake/FX/Send & Return FX.md",
-    "Sound/Characteristics/Frequency/Frequency.md",
     "Sound/Characteristics/Frequency",
-    "Sound/Characteristics/Phase/Phase.md",
     "Sound/Characteristics/Period",
-    "Lake/Speaker/Two-way speaker.md",
-    "Lake/Speaker/Crossover.md",
-    "Lake/Speaker/Three-way speaker.md",
-    "Lake/Speaker/Loudspeaker.md",
-    "Lake/Speaker/Mid-range speaker.md",
-    "Lake/Speaker/Tweeter.md",
-    "Lake/Speaker/Woofer.md",
-    "Lake/PA System.md",
     "Lake/Speaker",
-    "Sound/Interference/Interference.md",
-    "Lake/Terms.md",
-    "Sound/Interference",
-    "Lake/Bus/Subgroup",
-    "Lake/Bus",
-    "Lake/Signal Flow",
-    "Lake/SBIR",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
