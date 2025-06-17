@@ -2,5 +2,5 @@
 
 Even if faders wear out, it's still possible to use other channels and to use Tablet.
 
-Also, these are **used by most of the people**, and they'd be able to mix on the mixer.
+Besides that, this kind of mixers is **widely used by most of the people**, and just in case they'll be able to mix on the mixer.
 
