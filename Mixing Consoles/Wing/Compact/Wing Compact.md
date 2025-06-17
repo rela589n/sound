@@ -16,7 +16,7 @@ aliases:
 | StageConnect                                                                              | 1 (x 32)       |             |         |
 |                                                                                           |                |             |         |
 | **Usability**                                                                             |                | **Обробка** |         |
-| *Buttons-config*                                                                          | *yes*          | EQ          | 6       |
+| *Buttons-config*                                                                          | *yes*          | EQ          | *6*     |
 | *Screen-touch*                                                                            | *yes*          | *EQ Solo*   | +       |
 | *Musician app*                                                                            | *Wing Q*       | *Tilt EQ*   | +       |
 |                                                                                           |                | FX          |         |
