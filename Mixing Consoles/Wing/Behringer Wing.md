@@ -31,3 +31,6 @@ Apps:
 - Wing Q - for musicians to control their monitors
 
 Console size: 24 faders
+
+
+It's possible to define custom functions for every button when selected "User" (like scene loading, etc).
