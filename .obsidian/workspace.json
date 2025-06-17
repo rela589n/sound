@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49ddd24e6109439f",
+            "id": "23442160e8095f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,13 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49ddd24e6109439f",
+  "active": "23442160e8095f71",
   "lastOpenFiles": [
-    "Mixing Consoles/Wing/Behringer Wing.md",
+    "Mixing Consoles/Wing/Compact/Wing Compact - Front view.jpg",
     "Mixing Consoles/Wing/Compact/Wing Compact.md",
+    "Mixing Consoles/Wing/Compact/Wing Compact - Side view.jpg",
+    "Mixing Consoles/Wing/Behringer Wing.md",
     "Mixing Consoles/Wing/Rack/Wing Rack.md",
     "Mixing Consoles/Wing/Full/Wing Full.md",
-    "Wing Full - Back.png",
+    "Mixing Consoles/Wing/Full/Wing Full - Back.png",
     "Mixing Consoles/Wing/Full",
     "Mixing Consoles/Wing/Rack/Wing Rack - Back.png",
     "Mixing Consoles/M32/Full/M32 Live.md",
@@ -212,11 +214,9 @@
     "Mixing Consoles/M32/Full/M32R Live - Back.png",
     "Mixing Consoles/M32/Reduced/M32R Live - Front.png",
     "Mixing Consoles/Wing/Rack/Wing Rack - Side.png",
-    "Mixing Consoles/Wing/Compact/Wing Compact - Top.png",
     "Mixing Consoles/M32/Midas M32.md",
     "Lake/EQ/Tilt EQ.md",
     "Lake/EQ/TEQ.md",
-    "Mixing Consoles/M32/Full/M32 Live - Front.png",
     "Connections/DMX/DMX.md",
     "Connections/AES50.md",
     "Instruments/Bass/Bass Guitar.md",

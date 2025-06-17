@@ -41,3 +41,7 @@ aliases:
 ![[Wing Compact - Side.png]]
 ![[Wing Compact - Back.png]]
 ![[Wing Compact - Lid.png]]
+
+![[Wing Compact - Front view.jpg]]
+
+![[Wing Compact - Side view.jpg]]
