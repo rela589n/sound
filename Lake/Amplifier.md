@@ -1,0 +1,5 @@
+---
+aliases:
+  - AMP
+---
+Increases [[Amplitude]]

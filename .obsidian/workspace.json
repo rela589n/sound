@@ -11,14 +11,48 @@
             "id": "41438e7cfc32b1b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lake/EQ/VEQ.md",
-                "mode": "source",
-                "source": false
+                "file": "Sends - types.png"
               },
-              "icon": "lucide-file",
-              "title": "VEQ"
+              "icon": "lucide-image",
+              "title": "Sends - types"
+            }
+          },
+          {
+            "id": "4e73022effaaeef4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/De-esser/De-essing.png"
+              },
+              "icon": "lucide-image",
+              "title": "De-essing"
+            }
+          },
+          {
+            "id": "9941dcbad33875eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/Auto Mix/Enabling auto mix.png"
+              },
+              "icon": "lucide-image",
+              "title": "Enabling auto mix"
+            }
+          },
+          {
+            "id": "a9d92d16d0a0e773",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lake/Auto Mix/Set auto mix group for a channel.png"
+              },
+              "icon": "lucide-image",
+              "title": "Set auto mix group for a channel"
             }
           }
         ]
@@ -53,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "De-essing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,6 +240,18 @@
   },
   "active": "41438e7cfc32b1b0",
   "lastOpenFiles": [
+    "Lake/De-esser/De-esser.md",
+    "Lake/De-esser/De-essing.png",
+    "Lake/De-esser",
+    "Lake/Auto Mix/Auto Mix.md",
+    "Lake/Auto Mix/Enabling auto mix.png",
+    "Lake/Auto Mix/Set auto mix group for a channel.png",
+    "Lake/Auto Mix",
+    "Lake/Volume VS Gain.md",
+    "Lake/Distortion.md",
+    "Lake/Amplifier.md",
+    "Lake/Waveform.md",
+    "Lake/EQ/VEQ.md",
     "Lake/EQ/TEQ.md",
     "Lake/EQ/EQ Band Solo.md",
     "Lake/EQ/Filters/Low shelf/LSF.md",
@@ -232,26 +278,13 @@
     "Lake/EQ/Sounds/Harsh.md",
     "Lake/EQ/Spectrums/High-mids.md",
     "Lake/EQ/Sounds/Brightness, Trebly, Sibilant, Sheen.md",
-    "Lake/EQ/Sounds/Boomy.md",
-    "Lake/EQ/Spectrums/Low-end.md",
-    "Lake/EQ/Sounds/Air, Sparkle.md",
     "Mixing Consoles/Wing/Compact/Wing Compact - Back.png",
-    "Mixing Consoles/Wing/Compact/Wing Compact.md",
-    "Lake/EQ/Tilt/Tilt EQ.md",
     "Lake/EQ/Tilt/Tilt EQ.png",
     "Lake/EQ/Tilt",
     "Mixing Consoles/Wing/Compact/Wing Compact - Top.png",
     "Mixing Consoles/Wing/Compact/Wing Compact - Front view.jpg",
-    "Mixing Consoles/Wing/Rack/Wing Rack.md",
-    "Mixing Consoles/M32/Full/M32 Live.md",
-    "Mixing Consoles/Wing/Full/Wing Full.md",
     "Mixing Consoles/M32/Reduced/M32R Live - Front.png",
     "Mixing Consoles/M32/Full/M32 Live - Back.png",
-    "Mixing Consoles/M32/Full/M32 Live - Front.png",
-    "Mixing Consoles/Wing/Compact/Wing Compact - Side view.jpg",
-    "Mixing Consoles/Wing/Full/Wing Full - Back.png",
-    "Mixing Consoles/Wing/Full",
-    "Instruments/Bass",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

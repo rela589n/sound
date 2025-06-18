@@ -17,6 +17,6 @@ If vocal is too [[Thick]]:
 
 ![[EQ thick vocal.png]]
 
-If [[Sibilant|Sibilants]] are outstanding, we'd use surgical eq to cut this. Or we can use [[Lake/De-esser|De-esser]] instead.
+If [[Sibilant|Sibilants]] are outstanding, we'd use surgical eq to cut this. Or we can use [[Lake/De-esser/De-esser|De-esser]] instead.
 
 ![[EQing sibilants.png]]
