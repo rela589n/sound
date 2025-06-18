@@ -6,7 +6,7 @@ Also, adress [[Feedback]] if it shows up.
 
 Then set up solid gain (-18dBFS).
 
-## Adjust [[HPF]]
+## Adjust [[LCF]]
 
 **100Hz** is a good start point for vocals. It will remove all [[Low-end]] stage noise, bass guitar and drums. Also, it helps out to remove [[Vocal Plosives]].
 

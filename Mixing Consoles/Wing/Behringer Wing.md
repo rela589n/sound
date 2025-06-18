@@ -18,7 +18,7 @@ USB 2.0 for PC connection (48 channels).
 
 Sensor screen
 
-6-band [[Equalizer|EQ]] (besides [[HPF|Low-cut Filter]] and [[LPF|High-cut Filter]])
+6-band [[Equalizer|EQ]] (besides [[LCF|Low-cut Filter]] and [[HCF|High-cut Filter]])
 
 [[EQ Band Solo]] feature (no need to sweep on live)
 [[Tilt EQ]] feature  (give darker or brighter sound to any instrument)

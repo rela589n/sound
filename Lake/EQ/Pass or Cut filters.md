@@ -1,4 +1,4 @@
 See:
-- [[HPF]] (low-cut);
-- [[LPF]] (high-cut).
+- [[LCF]] (low-cut);
+- [[HCF]] (high-cut).
 
