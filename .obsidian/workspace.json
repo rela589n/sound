@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixing Consoles/Wing/Full/Wing Full.md",
+                "file": "Mixing Consoles/Stereo Mixer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wing Full"
+              "title": "Stereo Mixer"
             }
           },
           {
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d9a2ca98ae2da53",
@@ -231,8 +230,9 @@
   },
   "active": "1ad2e38b0f7e5134",
   "lastOpenFiles": [
-    "Mixing Consoles/Wing/Full/Wing Full - Top.png",
     "Mixing Consoles/Wing/Full/Wing Full.md",
+    "Mixing Consoles/Stereo Mixer.md",
+    "Mixing Consoles/Wing/Full/Wing Full - Top.png",
     "Wing Full - Front.png",
     "Lake/Auto Mix/Set auto mix group for a channel.png",
     "Lake/Auto Mix/Enabling auto mix.png",
