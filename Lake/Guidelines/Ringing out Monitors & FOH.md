@@ -5,12 +5,11 @@ Also, disable compression.
 
 Reset bus EQ.
 
-Enable LCF for bus.
+Enable [[LCF]] ([[LCF|HPF]]) for the bus.
 
 Bring bus fader up to unity.
 
-
-## Ring FOH
+## Ring out FOH
 
 Set the gain.
 Pull master fader down.

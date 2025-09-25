@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Signal/Analog signal.md",
+                "file": "Lake/Gain/Unity gain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analog signal"
+              "title": "Unity gain"
             }
           },
           {
@@ -231,8 +231,13 @@
   },
   "active": "1ad2e38b0f7e5134",
   "lastOpenFiles": [
-    "Lake/Phantom Power.md",
+    "Instruments/Horn/Horn.png",
+    "Instruments/Horn/Horn.md",
+    "Lake/Gain/Unity gain.md",
+    "Lake/Gain/Input gain.md",
+    "Lake/Guidelines/Ringing out Monitors & FOH.md",
     "Sound/Signal/Analog signal.md",
+    "Lake/Phantom Power.md",
     "Connections/AES50.md",
     "Sound/Characteristics/Amplitude/Amplitude.md",
     "Microphone/Microphone.md",
@@ -252,7 +257,6 @@
     "Lake/FX/Manual/FX the vocal.md",
     "Lake/FX/Manual/Long decay.png",
     "4 things to take care of when EQing vocals.png",
-    "Inserted FX flow.png",
     "Lake/De-esser/De-esser.md",
     "Lake/De-esser",
     "Lake/Auto Mix/Auto Mix.md",
@@ -268,15 +272,10 @@
     "Lake/EQ/Filters/Low shelf",
     "Lake/EQ/Filters/High cut/HCF.md",
     "Lake/EQ/Filters/High cut",
-    "Lake/EQ/Filters/Low cut/LCF.md",
     "Lake/EQ/Filters/Low cut",
-    "Lake/EQ/Filters/High shelf/HSF.md",
     "Lake/EQ/Filters/Low pass",
     "Lake/EQ/Filters/High shelf",
     "Lake/EQ/Filters/High Pass",
-    "Lake/EQ/Manual/Equalizing vocals.md",
-    "Lake/EQ/Sounds/Warm VS Muddy and Boxy.md",
-    "Lake/EQ/Sounds/Thick.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
