@@ -1,0 +1,1 @@
+**Microphone** is a **translator** that converts the original **acoustic [[Sound]] wave** into the **[[Analog signal|Analog electrical signal]]** that can be carried through the wire.
