@@ -1,6 +1,7 @@
 ---
 aliases:
 ---
+**[[Behringer Wing]] Compact**
 
 | Фейдери                                                                                   |                | Габарити     |         |
 | ----------------------------------------------------------------------------------------- | -------------- | ------------ | ------- |
@@ -20,10 +21,11 @@ aliases:
 | *Buttons-config*                                                                          | *yes*          | EQ           | *6*     |
 | *Screen-touch*                                                                            | *yes*          | *EQ Solo*    | +       |
 | *Musician app*                                                                            | *Wing Q*       | *Tilt EQ*    | +       |
-| Ethernet                                                                                  | 2              |              |         |
+| Ethernet                                                                                  | 2              | *Xover Comp* | +       |
 | SD cards                                                                                  | 2              | *FX per chn* | +       |
-| Waves proc                                                                                | yes            | FX slots     | 16      |
+| Waves proc                                                                                | yes            |              |         |
 |                                                                                           |                |              |         |
+|                                                                                           |                | FX slots     | 16      |
 |                                                                                           |                | Matrix       | 8       |
 |                                                                                           |                | Bus          | 16      |
 |                                                                                           |                | DCA grp      | 8       |
@@ -31,7 +33,6 @@ aliases:
 | **Додатково**                                                                             |                |              |         |
 | [Посилання](https://intermuzika.com.ua/tsyfrovyi-mikshernyi-pult-behringer-wing-compact/) |                |              |         |
 | Ціна                                                                                      | 130 193 грн    |              |         |
-|                                                                                           |                |              |         |
 
 
 > **Faders-config** - you can adjust channel faders to be placed right by their respective buses and DCAs. For example, put music Aux right by vocal mics and vocal bus. 

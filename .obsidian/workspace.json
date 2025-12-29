@@ -4,48 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4c92b663147d2339",
+        "id": "9eb800ed3711ccff",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad2e38b0f7e5134",
+            "id": "bc09e5e1d21489d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lake/Gain/Unity gain.md",
+                "file": "Lake/Signal Flow/Signal Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity gain"
-            }
-          },
-          {
-            "id": "9a77e59668da1f02",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mixing Consoles/Wing/Full/Wing Full - Top.png"
-              },
-              "icon": "lucide-image",
-              "title": "Wing Full - Top"
-            }
-          },
-          {
-            "id": "00e0a1f84692cf35",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Wing Full - Front.png"
-              },
-              "icon": "lucide-image",
-              "title": "Wing Full - Front"
+              "title": "Signal Flow"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -229,53 +206,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad2e38b0f7e5134",
+  "active": "bc09e5e1d21489d3",
   "lastOpenFiles": [
-    "Instruments/Horn/Horn.png",
-    "Instruments/Horn/Horn.md",
-    "Lake/Gain/Unity gain.md",
-    "Lake/Gain/Input gain.md",
-    "Lake/Guidelines/Ringing out Monitors & FOH.md",
-    "Sound/Signal/Analog signal.md",
-    "Lake/Phantom Power.md",
-    "Connections/AES50.md",
-    "Sound/Characteristics/Amplitude/Amplitude.md",
-    "Microphone/Microphone.md",
-    "Microphone",
-    "Sound/Sound.md",
-    "Sound/Signal",
-    "Mixing Consoles/Stereo Mixer.md",
+    "Lake/Signal Flow/Signal Flow - Behringer.png",
+    "Monitoring/P16D/Behringer P16D Splitter.md",
+    "Monitoring/P16D/Behringer P16D Splitter.png",
     "Mixing Consoles/Wing/Full/Wing Full.md",
+    "Monitoring/P16D",
+    "Monitoring",
     "Mixing Consoles/Wing/Full/Wing Full - Top.png",
-    "Wing Full - Front.png",
+    "Mixing Consoles/Wing/Behringer Wing.md",
+    "Stage Connect/Stage Connect.md",
+    "Mixing Consoles/Wing/Compact/Wing Compact.md",
+    "Mixing Consoles/M32/Full/M32 Live.md",
+    "Mixing Consoles/M32/Midas M32.md",
+    "Mixing Consoles/X32 vs M32.md",
+    "Mixing Consoles/Stereo Mixer.md",
+    "Mixing Consoles/Wing/Rack/Wing Rack.md",
+    "Mixing Consoles/Behringer X32.md",
+    "Mixing Consoles/M32/Reduced/M32R Live.md",
+    "Sound/Characteristics/Period/Period.md",
+    "Sound/Sound.md",
+    "Sound/Characteristics/Preassure/Preassure.md",
+    "Sound/Characteristics/Frequency/Frequency.md",
+    "Sound/Characteristics/Loudness.md",
+    "Sound/Characteristics/Amplitude/Amplitude.md",
+    "Mixing Consoles/Wing/Wing Stageboxes.md",
+    "Mixing Consoles/Notes.md",
+    "Lake/EQ/Filters/Low cut/LCF.md",
+    "Lake/EQ/Pass or Cut filters.md",
+    "Lake/EQ/Equalizer.md",
+    "Lake/EQ/Tilt/Tilt EQ.md",
+    "Connections/AES50.md",
+    "Mixing Consoles/Wing/Full/Wing Full - Front.png",
+    "Sound/Interference/Constructive Interference.png",
+    "Instruments/Horn/Horn.png",
+    "Microphone",
+    "Sound/Signal",
     "Lake/Auto Mix/Set auto mix group for a channel.png",
     "Lake/Auto Mix/Enabling auto mix.png",
     "Lake/De-esser/De-essing.png",
     "sound-wave-reflect.gif",
     "Sound limiter.png",
-    "Lake/Ringing out Room.md",
-    "Lake/FX/Manual/FX the vocal.md",
-    "Lake/FX/Manual/Long decay.png",
-    "4 things to take care of when EQing vocals.png",
-    "Lake/De-esser/De-esser.md",
     "Lake/De-esser",
-    "Lake/Auto Mix/Auto Mix.md",
     "Lake/Auto Mix",
-    "Lake/Volume VS Gain.md",
-    "Lake/Distortion.md",
-    "Lake/Amplifier.md",
-    "Lake/Waveform.md",
-    "Lake/EQ/VEQ.md",
-    "Lake/EQ/TEQ.md",
-    "Lake/EQ/EQ Band Solo.md",
-    "Lake/EQ/Filters/Low shelf/LSF.md",
     "Lake/EQ/Filters/Low shelf",
-    "Lake/EQ/Filters/High cut/HCF.md",
     "Lake/EQ/Filters/High cut",
     "Lake/EQ/Filters/Low cut",
     "Lake/EQ/Filters/Low pass",
-    "Lake/EQ/Filters/High shelf",
-    "Lake/EQ/Filters/High Pass",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

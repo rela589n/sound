@@ -20,14 +20,20 @@ aliases:
 | Buttons-config                                         | -           | EQ          | 4        |
 | Screen-touch                                           | -           | EQ Solo     | -        |
 |                                                        |             | Tilt EQ     | -        |
-|                                                        |             | FX          | 8        |
-| **Додатково**                                          |             | Matrix      | 6        |
-| [Посилання](https://intermuzika.com.ua/midas-m32live/) |             | Buses       | 16       |
-| Ціна                                                   | 185 356 грн | DCA grp     | 8        |
-|                                                        |             | Mute grp    | 6        |
+|                                                        |             | Xover Comp  | -        |
+|                                                        |             | Fx per chan | -        |
 |                                                        |             |             |          |
+|                                                        |             | FX slots    | 8        |
+|                                                        |             | Matrix      | 6        |
+|                                                        |             | Buses       | 16       |
+|                                                        |             | DCA grp     | 8        |
+|                                                        |             | Mute grp    | 6        |
+| **Додатково**                                          |             |             |          |
+| [Посилання](https://intermuzika.com.ua/midas-m32live/) |             |             |          |
+| Ціна                                                   | 185 356 грн |             |          |
 
-> Кінець лінійки Midas, бо Music Group (Behringer) викупив Midas, і нові пульти йдуть з Midas-підсилювачами.
+
+> Кінець лінійки Midas, бо Music Group (Behringer) викупив Midas, і нові пульти вже йдуть з Midas-підсилювачами.
 
 
 ![[M32 Live - Front.png]]

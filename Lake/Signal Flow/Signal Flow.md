@@ -15,3 +15,5 @@ For monitor bus we definitely don't want to send (vocalists):
 
 
 ![[Signal flow.png]]
+
+![[Signal Flow - Behringer.png]]
