@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixing Consoles/Wing/Aux/Wing Aux vs Normal channel.md",
+                "file": "Stage Box/SD8/Behringer SD8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wing Aux vs Normal channel"
+              "title": "Behringer SD8"
             }
           }
         ],
@@ -208,10 +208,17 @@
   },
   "active": "bc09e5e1d21489d3",
   "lastOpenFiles": [
+    "Stage Box/SD8/Behringer SD8 - Back.png",
+    "Stage Box/S32/Behringer S32 - Front.png",
+    "Stage Box/SD8/Behringer SD8.md",
+    "Stage Box/SD8/Behringer SD8 - Front.png",
+    "Stage Box/S32/Behringer S32.md",
+    "Stage Box/SD8",
+    "Stage Box/Stage Box.md",
+    "Mixing Consoles/Wing/Aux/Wing Aux vs Normal channel.md",
     "Mixing Consoles/Wing/Behringer Wing.md",
     "Lake/EQ/Dynamic Equalizer.md",
     "Mixing Consoles/Wing/Compact/Wing Compact.md",
-    "Mixing Consoles/Wing/Aux/Wing Aux vs Normal channel.md",
     "Mixing Consoles/Wing/Aux/Wing Aux Compression.md",
     "Mixing Consoles/Wing/Full/Wing Full.md",
     "Mixing Consoles/Wing/Aux",
@@ -224,21 +231,17 @@
     "Lake/Compression/Limiter/Clipper.md",
     "Monitoring/P16D/Behringer P16D (Distribution).md",
     "Lake/Signal Flow/Signal Flow.md",
-    "Stage Box/Stage Box.md",
     "Stage Box/Stage Connect/Stage Connect.md",
     "4 things to take care of when EQing vocals.png",
     "Inserted FX flow.png",
-    "Stage Box/S32/Behringer S32.md",
     "Monitoring/Personal Monitoring.md",
     "Stage Box/S32/Behringer S32 - Back.png",
-    "Stage Box/S32/Behringer S32 - Front.png",
     "Stage Box/S32",
     "Stage Box",
     "Lake/Signal Flow/Signal Flow - Behringer.png",
     "Monitoring/P16D/Behringer P16D Splitter.png",
     "Monitoring/P16D",
     "Monitoring",
-    "Mixing Consoles/Wing/Full/Wing Full - Top.png",
     "Mixing Consoles/M32/Full/M32 Live.md",
     "Mixing Consoles/M32/Midas M32.md",
     "Mixing Consoles/X32 vs M32.md",
@@ -247,13 +250,10 @@
     "Mixing Consoles/Behringer X32.md",
     "Mixing Consoles/M32/Reduced/M32R Live.md",
     "Sound/Characteristics/Period/Period.md",
-    "Sound/Sound.md",
-    "Sound/Characteristics/Preassure/Preassure.md",
     "Microphone",
     "Sound/Signal",
     "Lake/De-esser",
     "Lake/Auto Mix",
-    "Lake/EQ/Filters/Low shelf",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
