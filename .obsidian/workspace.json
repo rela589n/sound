@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connections/XLR/XLR TRS soldering.md",
+                "file": "Monitoring/P2/Behringer P2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XLR TRS soldering"
+              "title": "Behringer P2"
             }
           }
         ],
@@ -206,11 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c02abd8c703a05d4",
+  "active": "bc09e5e1d21489d3",
   "lastOpenFiles": [
+    "Monitoring/P16D/Behringer P16D (Distribution).md",
+    "Monitoring/P2/Behringer P2.md",
+    "Monitoring/Personal Monitoring.md",
+    "Monitoring/P2/Behringer P2 - Back.png",
+    "Monitoring/P2/Behringer P2 - Front.png",
+    "Monitoring/P2",
+    "Connections/XLR/XLR TRS soldering.md",
     "Connections/XLR/XLR TRS soldering.png",
     "Connections/XLR/XLR.md",
-    "Connections/XLR/XLR TRS soldering.md",
     "Connections/XLR",
     "Stage Box/SD8/Behringer SD8.md",
     "Stage Box/S32/Behringer S32.md",
@@ -233,16 +239,11 @@
     "Lake/Compression/Limiter/Sound limiter.png",
     "Lake/Compression/Limiter/Soft VS Hard Clipping.png",
     "Lake/Compression/Limiter/Clipper.md",
-    "Monitoring/P16D/Behringer P16D (Distribution).md",
     "Lake/Signal Flow/Signal Flow.md",
     "Stage Box/Stage Connect/Stage Connect.md",
     "4 things to take care of when EQing vocals.png",
-    "Inserted FX flow.png",
-    "Monitoring/Personal Monitoring.md",
-    "Stage Box/S32/Behringer S32 - Back.png",
     "Stage Box/S32",
     "Stage Box",
-    "Lake/Signal Flow/Signal Flow - Behringer.png",
     "Monitoring/P16D",
     "Monitoring",
     "Mixing Consoles/M32/Full/M32 Live.md",
@@ -250,10 +251,8 @@
     "Mixing Consoles/X32 vs M32.md",
     "Mixing Consoles/Stereo Mixer.md",
     "Mixing Consoles/Wing/Rack/Wing Rack.md",
-    "Mixing Consoles/Behringer X32.md",
     "Microphone",
     "Sound/Signal",
-    "Lake/De-esser",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
