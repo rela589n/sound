@@ -1,0 +1,2 @@
+
+![[XLR TRS soldering.png]]
