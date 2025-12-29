@@ -35,7 +35,7 @@ aliases:
 | Ціна                                                                                      | 130 193 грн    |              |         |
 
 
-> **Faders-config** - you can adjust channel faders to be placed right by their respective buses and DCAs. For example, put music Aux right by vocal mics and vocal bus. 
+> **Faders-config** (layers) - you can adjust channel faders to be placed right by their respective buses and DCAs. For example, put music Aux right by vocal mics and vocal bus. 
 > 
 > Besides that, it's possible to **configure buttons** for actions like loading scene, channel preset etc.
 
