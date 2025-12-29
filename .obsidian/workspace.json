@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/P16D/Behringer P16D Splitter.md",
+                "file": "Lake/Signal Flow/Signal Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behringer P16D Splitter"
+              "title": "Signal Flow"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d9a2ca98ae2da53",
@@ -208,18 +209,18 @@
   },
   "active": "bc09e5e1d21489d3",
   "lastOpenFiles": [
-    "Monitoring/Personal Monitoring.md",
     "Monitoring/P16D/Behringer P16D Splitter.md",
+    "Lake/Signal Flow/Signal Flow.md",
+    "Stage Box/Stage Box.md",
+    "Stage Box/Stage Connect/Stage Connect.md",
+    "4 things to take care of when EQing vocals.png",
+    "Inserted FX flow.png",
     "Stage Box/S32/Behringer S32.md",
+    "Monitoring/Personal Monitoring.md",
     "Stage Box/S32/Behringer S32 - Back.png",
     "Stage Box/S32/Behringer S32 - Front.png",
-    "Stage Box/Stage Box.md",
     "Stage Box/S32",
-    "Stage Box/Stage Connect/Stage Connect.md",
-    "Inserted FX flow.png",
-    "4 things to take care of when EQing vocals.png",
     "Stage Box",
-    "Lake/Signal Flow/Signal Flow.md",
     "Lake/Signal Flow/Signal Flow - Behringer.png",
     "Monitoring/P16D/Behringer P16D Splitter.png",
     "Mixing Consoles/Wing/Full/Wing Full.md",
@@ -244,7 +245,6 @@
     "Mixing Consoles/Wing/Wing Stageboxes.md",
     "Mixing Consoles/Notes.md",
     "Lake/EQ/Filters/Low cut/LCF.md",
-    "Lake/EQ/Pass or Cut filters.md",
     "Mixing Consoles/Wing/Full/Wing Full - Front.png",
     "Sound/Interference/Constructive Interference.png",
     "Instruments/Horn/Horn.png",

@@ -1,5 +1,7 @@
 ---
-aliases: Input, Pre EQ, Post EQ, Pre Fader, Post Fader
+aliases:
+  - Input, Pre EQ, Post EQ, Pre Fader, Post Fader
+  - Tap Point
 ---
 
 Source of the sound sent to the bus might be:
@@ -16,4 +18,5 @@ For monitor bus we definitely don't want to send (vocalists):
 
 ![[Signal flow.png]]
 
+Tap points are shown at the bottom:
 ![[Signal Flow - Behringer.png]]
