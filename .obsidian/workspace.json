@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixing Consoles/Wing/Behringer Wing.md",
+                "file": "Mixing Consoles/Wing/Aux/Wing Aux vs Normal channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behringer Wing"
+              "title": "Wing Aux vs Normal channel"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "bc09e5e1d21489d3",
   "lastOpenFiles": [
-    "Lake/EQ/Dynamic Equalizer.md",
     "Mixing Consoles/Wing/Behringer Wing.md",
+    "Lake/EQ/Dynamic Equalizer.md",
     "Mixing Consoles/Wing/Compact/Wing Compact.md",
     "Mixing Consoles/Wing/Aux/Wing Aux vs Normal channel.md",
     "Mixing Consoles/Wing/Aux/Wing Aux Compression.md",
