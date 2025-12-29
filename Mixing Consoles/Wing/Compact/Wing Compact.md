@@ -27,7 +27,7 @@ aliases:
 |                                                                                           |                |              |         |
 |                                                                                           |                | FX slots     | 16      |
 |                                                                                           |                | Matrix       | 8       |
-|                                                                                           |                | Bus          | 16      |
+|                                                                                           |                | Mix Bus      | 16      |
 |                                                                                           |                | DCA grp      | 8       |
 |                                                                                           |                | Mute grp     | 8       |
 | **Додатково**                                                                             |                |              |         |

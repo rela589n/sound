@@ -1,4 +1,4 @@
-Stereo Channels: 48 (96 inputs, since it's stereo)
+Stereo Channels: 48 (stereo - it's 96 inputs)
 
 Mix buses (each is stereo): 16
 Main buses (stereo): 4
@@ -10,7 +10,7 @@ Matrices (stereo): 8
 Dual network ethernet ports for PC / Tablet control
 [[Ultranet]] connectivity
 
-3 [[AES50]] (each is able to handle 48 channels) bidirectional input sources (so totally you can connect 144 channels through these both for input and output)
+3 [[AES50]] (each is able to handle 48 channels) bidirectional input/output sources (so totally you can connect 144 channels through these both for input and output)
 
 [[Stage Connect]] port for any combination of IO (up to 32 channels).
 2 SD cards to record (and [[Virtual Soundcheck]])
@@ -31,6 +31,5 @@ Apps:
 - Wing Q - for musicians to control their monitors
 
 Console size: 24 faders
-
 
 It's possible to define custom functions for every button when selected "User" (like scene loading, etc).
