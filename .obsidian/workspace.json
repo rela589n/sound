@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage Box/S32/Behringer S32.md",
+                "file": "Monitoring/P16D/Behringer P16D Splitter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behringer S32"
+              "title": "Behringer P16D Splitter"
             }
           }
         ],
@@ -208,10 +208,12 @@
   },
   "active": "bc09e5e1d21489d3",
   "lastOpenFiles": [
+    "Monitoring/Personal Monitoring.md",
+    "Monitoring/P16D/Behringer P16D Splitter.md",
+    "Stage Box/S32/Behringer S32.md",
     "Stage Box/S32/Behringer S32 - Back.png",
     "Stage Box/S32/Behringer S32 - Front.png",
     "Stage Box/Stage Box.md",
-    "Stage Box/S32/Behringer S32.md",
     "Stage Box/S32",
     "Stage Box/Stage Connect/Stage Connect.md",
     "Inserted FX flow.png",
@@ -219,7 +221,6 @@
     "Stage Box",
     "Lake/Signal Flow/Signal Flow.md",
     "Lake/Signal Flow/Signal Flow - Behringer.png",
-    "Monitoring/P16D/Behringer P16D Splitter.md",
     "Monitoring/P16D/Behringer P16D Splitter.png",
     "Mixing Consoles/Wing/Full/Wing Full.md",
     "Monitoring/P16D",
@@ -249,7 +250,6 @@
     "Instruments/Horn/Horn.png",
     "Microphone",
     "Sound/Signal",
-    "Lake/Auto Mix/Set auto mix group for a channel.png",
     "Lake/De-esser",
     "Lake/Auto Mix",
     "Lake/EQ/Filters/Low shelf",
