@@ -4,4 +4,4 @@ aliases:
 ---
 [[Behringer P16D (Distribution)]]
 
-[[Behringer P2]]
+[[Behringer Powerplay P2]]
